@@ -1,0 +1,50 @@
+indifference 
+00010100 00000000 00000000 00001000 
+outdifference 
+00000000 01000010 00000101 01001000 
+first generation 374, fitness 35, count number 82, time: 0 day,0 hour,20 minite, 6 second 
+indifference 
+00100000 00010100 00001000 00000000 
+outdifference 
+00100010 00000100 10101010 01000100 
+first generation 1392, fitness 35, count number 341, time: 0 day,0 hour,33 minite, 54 second 
+indifference 
+00100000 00010100 00001000 00000000 
+outdifference 
+00001000 00010000 00101000 00010000 
+first generation 1392, fitness 35, count number 341, time: 0 day,0 hour,0 minite, 0 second 
+indifference 
+00100000 01000000 00000000 01000000 
+outdifference 
+00001000 00000000 10101000 01000000 
+first generation 1566, fitness 35, count number 111, time: 0 day,0 hour,2 minite, 55 second 
+indifference 
+00101000 00000000 00000000 00010000 
+outdifference 
+00000000 00000100 00000000 00010100 
+first generation 2566, fitness 35, count number 500, time: 0 day,0 hour,15 minite, 13 second 
+indifference 
+00100000 01010100 00001000 00000000 
+outdifference 
+00001010 00000000 00100010 00000000 
+first generation 5035, fitness 35, count number 32, time: 0 day,1 hour,24 minite, 2 second 
+indifference 
+00000010 00010001 00001010 00000100 
+outdifference 
+01010010 00100001 00010010 00100100 
+first generation 10289, fitness 35, count number 5, time: 0 day,2 hour,23 minite, 36 second 
+indifference 
+00000010 00010001 00001010 00000100 
+outdifference 
+11010010 00100001 10010010 00100100 
+first generation 10289, fitness 35, count number 5, time: 0 day,0 hour,0 minite, 0 second 
+indifference 
+00000101 00001000 00000000 00000010 
+outdifference 
+10000001 00001000 10010001 00101010 
+first generation 19697, fitness 35, count number 4, time: 0 day,4 hour,30 minite, 59 second 
+indifference 
+00000001 00000100 00001000 00000010 
+outdifference 
+10000000 00000000 10000100 00001010 
+first generation 26407, fitness 35, count number 7, time: 0 day,4 hour,54 minite, 6 second 
